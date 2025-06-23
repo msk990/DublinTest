@@ -1,0 +1,47 @@
+[
+  {
+    "id": "biz1",
+    "name": "The Local Bean",
+    "subtitle": "Coffee & Pastries",
+    "logo": "network/bean_logo.png",
+    "offer": "100 tokens \u2192 5% off your order",
+    "discount": "5% OFF",
+    "condition": "WED ONLY"
+  },
+  {
+    "id": "biz2",
+    "name": "Cycle Hub",
+    "subtitle": "Bike Rentals & Gear",
+    "logo": "network/cycle_logo.png",
+    "offer": "250 tokens \u2192 Free helmet rental",
+    "discount": "FREE ITEM",
+    "condition": "WEEKDAYS"
+  },
+  {
+    "id": "biz3",
+    "name": "Zen Garden Spa",
+    "subtitle": "Relaxation & Massage",
+    "logo": "network/spa_logo.png",
+    "offer": "300 tokens \u2192 10% off spa services",
+    "discount": "10% OFF",
+    "condition": "FIRST VISIT"
+  },
+  {
+    "id": "biz4",
+    "name": "Pasta Planet",
+    "subtitle": "Family Restaurant",
+    "logo": "network/pasta_logo.png",
+    "offer": "150 tokens \u2192 Free dessert",
+    "discount": "FREE ITEM",
+    "condition": "DINNER ONLY"
+  },
+  {
+    "id": "biz5",
+    "name": "Book Nook",
+    "subtitle": "Independent Bookstore",
+    "logo": "network/book_logo.png",
+    "offer": "200 tokens \u2192 10% off any book",
+    "discount": "10% OFF",
+    "condition": "ANYTIME"
+  }
+]

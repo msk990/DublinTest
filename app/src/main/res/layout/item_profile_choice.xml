@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/choice_root"
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/choice_avatar"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/profile_circle_bg"
+        android:padding="8dp"
+        android:scaleType="centerCrop"
+        android:contentDescription="Profile avatar" />
+
+    <TextView
+        android:id="@+id/choice_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wolf"
+        android:textStyle="bold"
+        android:textSize="14sp"
+        android:layout_marginTop="8dp" />
+</LinearLayout>

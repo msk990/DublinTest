@@ -1,0 +1,57 @@
+[
+  {
+    "id": "biz1",
+    "name": "The Local Bean",
+    "subtitle": "Coffee & Pastries",
+    "logo": "network/bean_logo.png",
+    "offer": "100 tokens \u2192 5% off your order",
+    "discount": "5% OFF",
+    "condition": "WED ONLY",
+    "story": "A family-owned cafe sourcing beans from ethical farms.",
+    "location": {
+      "lat": 42.698334,
+      "lng": 23.319941
+    },
+    "featuredItems": [
+      "Iced Caramel Latte",
+      "Homemade Banana Bread"
+    ]
+  },
+  {
+    "id": "biz2",
+    "name": "Cycle Hub",
+    "subtitle": "Bike Rentals & Gear",
+    "logo": "network/pasta_logo.png",
+    "offer": "250 tokens \u2192 Free helmet rental",
+    "discount": "FREE ITEM",
+    "condition": "WEEKDAYS",
+    "story": "Helping you ride the city since 2009. Locally owned, rider approved.",
+    "location": {
+      "lat": 42.695633,
+      "lng": 23.323223
+    },
+    "featuredItems": [
+      "Trek FX 3 Disc",
+      "Best Adventure: Boyana to Pancharevo"
+    ]
+  },
+  {
+    "id": "biz5",
+    "name": "Book Nook",
+    "subtitle": "Independent Bookstore",
+    "logo": "network/book_logo.png",
+    "offer": "200 tokens \u2192 10% off any book",
+    "discount": "10% OFF",
+    "condition": "ANYTIME",
+    "story": "A cozy corner for book lovers. Since 1997.",
+    "location": {
+      "lat": 42.699123,
+      "lng": 23.3162
+    },
+    "featuredItems": [
+      "Beach Reads 2024",
+      "The Midnight Library",
+      "Local Authors"
+    ]
+  }
+]

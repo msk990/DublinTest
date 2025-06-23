@@ -1,0 +1,102 @@
+[
+  {
+    "id": "quest1",
+    "title": "Capture the Sunset",
+    "description": "Take a photo of a sunset from the hill",
+    "image": "fox_adventure.png",
+    "reward": 10,
+    "status": "NOT_STARTED",
+    "tasks": [
+      {
+        "text": "collect a frog sticker",
+        "sticker": "frog-lotus.png",
+        "isCompleted": true
+      },
+      {
+        "text": "verify one green practice",
+        "sticker": "giraffe-camera.png",
+        "isCompleted": false
+      },
+      {
+        "text": "take a photo of the sunset from the hill",
+        "sticker": "hedgehog-sun.png",
+        "isCompleted": true
+      }
+    ]
+  },
+  {
+    "id": "quest2",
+    "title": "Find a Landmark",
+    "description": "Locate a famous place and snap a pic!",
+    "image": "hedgehogs.png",
+    "reward": 15,
+    "status": "IN_PROGRESS",
+    "tasks": [
+      {
+        "text": "collect a frog sticker",
+        "sticker": "frog-lotus.png",
+        "isCompleted": true
+      },
+      {
+        "text": "verify one green practice",
+        "sticker": "giraffe-camera.png",
+        "isCompleted": false
+      },
+      {
+        "text": "take a photo of the sunset from the hill",
+        "sticker": "hedgehog-sun.png",
+        "isCompleted": true
+      }
+    ]
+  },
+  {
+    "id": "quest3",
+    "title": "Animal Sighting",
+    "description": "Photograph a pet or a wild animal.",
+    "image": "fox_and_hen.png",
+    "reward": 12,
+    "status": "COMPLETED",
+    "tasks": [
+      {
+        "text": "collect a frog sticker",
+        "sticker": "frog-lotus.png",
+        "isCompleted": true
+      },
+      {
+        "text": "verify one green practice",
+        "sticker": "giraffe-camera.png",
+        "isCompleted": false
+      },
+      {
+        "text": "take a photo of the sunset from the hill",
+        "sticker": "hedgehog-sun.png",
+        "isCompleted": true
+      }
+    ]
+  },
+  {
+    "id": "quest4",
+    "title": "See the lake",
+    "description": "Take a walk to the lake",
+    "image": "hippo.png",
+    "reward": 8,
+    "status": "NOT_STARTED",
+    "tasks": [
+      {
+        "text": "collect a frog sticker",
+        "sticker": "frog-lotus.png",
+        "isCompleted": true
+      },
+      {
+        "text": "verify one green practice",
+        "sticker": "giraffe-camera.png",
+        "isCompleted": false
+      },
+      {
+        "text": "take a photo of the sunset from the hill",
+        "sticker": "hedgehog-sun.png",
+        "isCompleted": true
+      }
+    ]
+  }
+]

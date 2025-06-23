@@ -1,0 +1,106 @@
+{
+  "laptop": {
+    "image": "stickers/wolf-air.gif",
+    "description": "You found a butterfly! It's so cute!",
+    "type": "COLLECTIBLE",
+    "domains": ["air"]
+  },
+  "tv": {
+    "image": "stickers/wolf-air.gif",
+    "description": "You found a butterfly! It's so cute!",
+    "type": "COLLECTIBLE",
+    "domains": ["air"]
+  },
+  "cell phone": {
+    "image": "stickers/wolf-air.gif",
+    "description": "You found a butterfly! It's so cute!",
+    "type": "COLLECTIBLE",
+    "domains": ["air"]
+  },
+  "remote": {
+    "image": "stickers/wolf-air.gif",
+    "description": "You found a butterfly! It's so cute!",
+    "type": "COLLECTIBLE",
+    "domains": ["air"]
+  },
+  "lamp": {
+    "image": "stickers/wolf-air.gif",
+    "description": "You found a butterfly! It's so cute!",
+    "type": "COLLECTIBLE",
+    "domains": [
+      "air"
+    ]
+  },
+  "bicycle": {
+    "image": "stickers/wolf-earth.png",
+    "description": "This is a lovely bike. Oh, yeah!",
+    "type": "COLLECTIBLE",
+    "domains": ["earth"]
+  },
+  "apple": {
+    "image": "stickers/wolf-earth.gif",
+    "description": "Pollinator habitat! Bees love it here!",
+    "type": "COLLECTIBLE",
+    "domains": ["earth"]
+  },
+  "backpack": {
+    "image": "stickers/wolf-earth.gif",
+    "description": "You will need this on your nature walks",
+    "type": "COLLECTIBLE",
+    "domains": ["earth"]
+  },
+  "handbag": {
+    "image": "stickers/wolf-earth.gif",
+    "description": "Michael is a ginger cat with 7 lives left. He likes cookies and communal sleeping.",
+    "type": "COLLECTIBLE",
+    "domains": ["earth"]
+  },
+  "fork": {
+    "image": "stickers/wolf-earth.gif",
+    "description": "Michael is a ginger cat with 7 lives left. He likes cookies and communal sleeping.",
+    "type": "COLLECTIBLE",
+    "domains": ["earth"]
+    },
+  "chair": {
+    "image": "stickers/wolf-earth.gif",
+    "description": "Michael is a ginger cat with 7 lives left. He likes cookies and communal sleeping.",
+    "type": "COLLECTIBLE",
+    "domains": ["earth"]
+  },
+  "potted plant": {
+    "image": "stickers/wolf-earth.gif",
+    "description": "Michael is a ginger cat with 7 lives left. He likes cookies and communal sleeping.",
+    "type": "COLLECTIBLE",
+    "domains": ["earth"]
+  },
+  "bottle": {
+    "image": "stickers/frog.png",
+    "description": "Bottled rainwater? Very frog.",
+    "type": "COLLECTIBLE",
+    "domains": ["water"]
+  },
+  "cup": {
+    "image": "stickers/frog.png",
+    "description": "Use this to drink water",
+    "type": "COLLECTIBLE",
+    "domains": ["water"]
+  },
+  "vase": {
+    "image": "stickers/frog.png",
+    "description": "Use this to drink water",
+    "type": "COLLECTIBLE",
+    "domains": ["water"]
+  },
+  "sink": {
+    "image": "stickers/frog.png",
+    "description": "Use this to drink water",
+    "type": "COLLECTIBLE",
+    "domains": ["water"]
+  },
+  "toilet": {
+    "image": "stickers/frog.png",
+    "description": "Use this to drink water",
+    "type": "COLLECTIBLE",
+    "domains": ["water"]
+  }
+}

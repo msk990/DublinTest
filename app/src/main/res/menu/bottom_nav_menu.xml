@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_farm"-->
+<!--        android:icon="@drawable/outline_add_business_24"-->
+<!--        android:title="@string/title_farm" />-->
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_quests"-->
+<!--        android:icon="@drawable/explore_24dp"-->
+<!--        android:title="@string/title_quests" />-->
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/paw_outline"
+        android:title="Animal" />
+
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/photo_camera_24dp"
+        android:title="@string/title_camera" />
+
+    <item
+        android:id="@+id/navigation_quest"
+        android:icon="@drawable/note_stack_24dp"
+        android:title="@string/title_quest" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_profile"-->
+<!--        android:icon="@drawable/outline_accessibility_24"-->
+<!--        android:title="@string/title_profile" />-->
+<!--    <item-->
+<!--        android:id="@+id/navigation_story"-->
+<!--        android:icon="@drawable/note_stack_24dp"-->
+<!--        android:title="@string/story" />-->
+<!--&lt;!&ndash;    <item&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/navigation_wallet"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:icon="@drawable/outline_add_business_24"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:title="Wallet" />&ndash;&gt;-->
+<!--    <item-->
+<!--        android:id="@+id/navigation_survey"-->
+<!--        android:icon="@drawable/storefront_24dp"-->
+<!--        android:title="@string/survey" />-->
+
+
+</menu>

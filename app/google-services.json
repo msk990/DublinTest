@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33832202092",
+    "project_id": "dublintest-8d1c1",
+    "storage_bucket": "dublintest-8d1c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33832202092:android:a855229822204188a88d49",
+        "android_client_info": {
+          "package_name": "com.example.dublintest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfw8dizjBt8j9XRy4iDzQcRaO6kEMMQ7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

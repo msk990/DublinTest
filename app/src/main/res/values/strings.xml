@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DublinTest</string>
+<string name="title_farm">Farm</string>
+<string name="title_map">Map</string>
+<string name="title_camera">Camera</string>
+<string name="title_quests">Quests</string>
+
+<string name="sticker_image" />
+    <string name="title_profile">Profile</string>
+    <string name="title_quest">Quest</string>
+    <string name="title_story">Story</string>
+    <string name="title_survey">Survey</string>
+    <string name="story">Story</string>
+    <string name="survey">Survey</string>
+
+</resources>

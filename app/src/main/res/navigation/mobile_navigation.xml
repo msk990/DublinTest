@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_camera">
+
+
+    <fragment
+        android:id="@+id/navigation_camera"
+        android:name="com.example.dublintest.ui.camera.CameraFragment"
+        android:label="@string/title_camera"
+        tools:layout="@layout/fragment_camera" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.dublintest.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/navigation_quest"
+        android:name="com.example.dublintest.ui.quest.QuestFragment"
+        android:label="@string/title_quest"
+        tools:layout="@layout/fragment_quest" />
+
+    <fragment
+        android:id="@+id/navigation_story"
+        android:name="com.example.dublintest.ui.story.StoryFragment"
+        android:label="@string/title_story"
+        tools:layout="@layout/fragment_story" />
+
+    <fragment
+        android:id="@+id/navigation_survey"
+        android:name="com.example.dublintest.ui.survey.SurveyFragment"
+        android:label="@string/title_survey"
+        tools:layout="@layout/fragment_survey" />
+    <fragment
+        android:id="@+id/navigation_victory"
+        android:name="com.example.dublintest.ui.victory.VictoryFragment"
+        android:label="@string/title_survey"
+        tools:layout="@layout/fragment_victory" />
+
+
+
+
+
+
+</navigation>
